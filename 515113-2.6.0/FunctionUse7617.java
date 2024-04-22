@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdownload.DownloadedSchemasDocument.DownloadedSchemas;
+public class FunctionUse7617 {
+public void funcUse() {
+DownloadedSchemas downloadedschemas = new DownloadedSchemas();
+downloadedschemas.getDefaultDirectory();
+}
+}

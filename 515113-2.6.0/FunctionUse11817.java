@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.impl.GroupImpl;
+public class FunctionUse11817 {
+public void funcUse() {
+GroupImpl groupimpl = new GroupImpl();
+groupimpl.removeElement(null);
+}
+}

@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.impl.AttributeImpl;
+public class FunctionUse11375 {
+public void funcUse() {
+AttributeImpl attributeimpl = new AttributeImpl();
+attributeimpl.xgetRef();
+}
+}

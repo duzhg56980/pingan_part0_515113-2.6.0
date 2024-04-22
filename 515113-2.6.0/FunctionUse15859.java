@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.xml.stream.AttributeIterator;
+public class FunctionUse15859 {
+public void funcUse() {
+AttributeIterator attributeiterator = new AttributeIterator();
+attributeiterator.skip();
+}
+}

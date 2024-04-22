@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.Element;
+public class FunctionUse8688 {
+public void funcUse() {
+Element element = new Element();
+element.isSetNillable();
+}
+}

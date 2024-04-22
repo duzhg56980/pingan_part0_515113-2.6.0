@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.schema.StscImporter.SchemaToProcess;
+public class FunctionUse4856 {
+public void funcUse() {
+SchemaToProcess schematoprocess = new SchemaToProcess();
+schematoprocess.addIndirectIncludesHelper(null,null);
+}
+}

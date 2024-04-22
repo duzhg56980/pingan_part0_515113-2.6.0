@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.impl.AnnotationDocumentImpl.AnnotationImpl;
+public class FunctionUse11249 {
+public void funcUse() {
+AnnotationImpl annotationimpl = new AnnotationImpl();
+annotationimpl.sizeOfAppinfoArray();
+}
+}

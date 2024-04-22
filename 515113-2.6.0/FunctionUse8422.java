@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.ComplexType;
+public class FunctionUse8422 {
+public void funcUse() {
+ComplexType complextype = new ComplexType();
+complextype.getSimpleContent();
+}
+}

@@ -1,0 +1,6 @@
+import org.apache.xmlbeans.impl.xb.xsdschema.impl.SimpleDerivationSetImpl;
+public class FunctionUse12580 {
+public void funcUse() {
+SimpleDerivationSetImpl simplederivationsetimpl = new SimpleDerivationSetImpl();
+}
+}

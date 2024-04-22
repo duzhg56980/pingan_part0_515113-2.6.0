@@ -1,0 +1,7 @@
+import org.apache.xmlbeans.impl.piccolo.xml.Piccolo;
+public class FunctionUse17424 {
+public void funcUse() {
+Piccolo piccolo = new Piccolo();
+piccolo.reportPI(null,null);
+}
+}
